@@ -1,2 +1,6 @@
 rootProject.name = 'feign'
+include 'eureka'
+include 'service-a'
+include 'service-b'
+include 'consumer'
 
